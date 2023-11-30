@@ -103,7 +103,7 @@ If everything was done correctly, your screen should look like this:
 
 Now, follow the instructions shown in the file to upload the data frame 'madrid_Houses.csv' into your environment.
 
-From here, run the cells in their respective order and you will be able to see the abalysis carried out.
+From here, run the cells in their respective order and you will be able to see the analysis carried out.
 
 
 ## Authors
