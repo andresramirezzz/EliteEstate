@@ -36,24 +36,24 @@ Step 1: Open PyCharm and create a 'New Project'
 ![Image 1](instruction_images/Step1.png)
 
 Step 2: Change the project directory to the folder you previously created
-IMAGE 2
+![Image 2](instruction_images/Step2.png)
 
 Step 3: Select the folder you created before as your PyCharm project directory
-IMAGE 3
+![Image 3](instruction_images/Step3.png)
 
 Step 4: Create the project
-IMAGE 4
+![Image 4](instruction_images/Step4.png)
 
 Step 5: The outlook of the environment
-IMAGE 5
+![Image 5](instruction_images/Step6.png)
 
 Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
 
-IMAGE SHOWING THE FOLDER
+![Image 6](instruction_images/The_folder_look.png)
 
 The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
 
-IMAGE OPENPYTHONFILE
+![Image 7](instruction_images/OPENPYTHONFILE.png)
 
 After this, install the requirements in your Pycharm terminal.
 
@@ -61,15 +61,15 @@ After this, install the requirements in your Pycharm terminal.
 pip install -r requirements.txt
 ```
 Warning: 
-IMAGE REQUIREMENTS
+![Image 8](instruction_images/Requirements_step.png)
 
 Once the python environment looks like this, you are ready tu run the code.
 
-IMAGE FINALRESULTTT
+![Image 9](instruction_images/FinalPythonStep.png)
 
 Once the code has been run and the questionnaire completed, a file called 'Results.txt' will be saved to your environment with the relevant numerical calculation of each plot. You should find this document in your environment folder and it should look like this:
 
-IMAGERESULT
+![Image 10](instruction_images/Resultsstep.png)
 
 That would be all. Thank you for seeing our analysis!
 
