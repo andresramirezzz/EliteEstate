@@ -7,7 +7,6 @@ A series of code used for understanding the behaviour of different variables in 
 2. [Installation](#Installation)
 3. [Usage](#Usage)
 7. [Authors](#Authors)
-8. [Acknowledgements](#Acknowledgements)
 9. [License](#License)
 
 ## Description
@@ -74,7 +73,7 @@ Andrés Ramírez: [Github](https://github.com/andresramirezzz)
 Copyright (c) [2023] [Elite Estate]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "LanguageHUB.py"), to deal
+of this software and associated documentation files (the "EliteEstate.py"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
