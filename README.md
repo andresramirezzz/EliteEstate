@@ -49,7 +49,7 @@ Step 5: The outlook of the environment
 
 Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
 
-![Image 6](instruction_images/Thefolderlook.png)
+![Image 6](instruction_images/Step7.png)
 
 The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
 
