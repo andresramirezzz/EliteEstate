@@ -33,7 +33,7 @@ Files >> Desktop >> 'Right Click' >> New Folder >> type: 'Elite Estate'
 Once you have created this folder, create a Pycharm environment in this folder. Follow the next steps to do it correctly. The software in the steps is MacOS but in Windows is almost the same, but you may encounter some interface difference
 
 Step 1: Open PyCharm and create a 'New Project'
-IMAGE 1
+![Image 1](instruction_images/Step1.png)
 
 Step 2: Change the project directory to the folder you previously created
 IMAGE 2
@@ -51,7 +51,11 @@ Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the
 
 IMAGE SHOWING THE FOLDER
 
-Then, install the requirements in your Pycharm terminal.
+The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
+
+IMAGE OPENPYTHONFILE
+
+After this, install the requirements in your Pycharm terminal.
 
 ```python
 pip install -r requirements.txt
@@ -59,9 +63,15 @@ pip install -r requirements.txt
 Warning: 
 IMAGE REQUIREMENTS
 
-The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
+Once the python environment looks like this, you are ready tu run the code.
 
-IMAGE OPENPYTHONFILE
+IMAGE FINALRESULTTT
+
+Once the code has been run and the questionnaire completed, a file called 'Results.txt' will be saved to your environment with the relevant numerical calculation of each plot. You should find this document in your environment folder and it should look like this:
+
+IMAGERESULT
+
+That would be all. Thank you for seeing our analysis!
 
 ### Google Collab Installation
 
