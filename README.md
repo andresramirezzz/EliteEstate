@@ -83,11 +83,11 @@ hese images explain how to upload the 'EliteEstate.ipynb' document to 'Your Driv
 
 Step 1: 
 
-![Image 12](instruction_images/drivestep1.png)
+![Image 12](instruction_images/ds1.png)
 
 Step 2: 
 
-![Image 13](instruction_images/drivestep2.png)
+![Image 13](instruction_images/ds2.png)
 
 Step 3: 
 
