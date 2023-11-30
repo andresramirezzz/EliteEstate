@@ -4,10 +4,9 @@ A series of code used for understanding the behaviour of different variables in 
 
 # Table of contents
 1. [Description](#Description)
-2. [Installation](#Installation)
-3. [Usage](#Usage)
-7. [Authors](#Authors)
-9. [License](#License)
+2. [Installation & Usage](#Installation & Usage)
+3. [Authors](#Authors)
+4. [License](#License)
 
 ## Description
 
