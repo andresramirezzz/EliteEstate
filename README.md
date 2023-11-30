@@ -26,25 +26,42 @@ Firstly, install [Python](https://www.python.org/downloads/) and [PyCharm](https
 
 Once you have installed both programs you are ready to begin seeing Elite Estate analysis.
 
-The first step you need to follow is to create a folder in your computer in a place you will remember. This is very important, as you will need to save the data frame 'houses_Madrid.csv' in the same folder / environment. 
+The first step you need to follow is to create a folder in your computer in a place you will remember. This is very important, as you will need to save the data frame 'houses_Madrid.csv' in the same folder / environment. It is recommended to create a folder on the desktop of your computer for easy access
 
-Once you have created this folder,  open up Pycharm, press on the three lines on the top left side, then click on file, new project and make sure you save the project in the previously created folder. In order for you to check where you are saving this new project you will have to look on the top of the emergent window, where it says "Location:",  if the following path leads to your folder you are done and can press "Create" on the botton right. If the path isn't leading you to the folder you created, click on the small folder at the right of the bar and look for the folder you created, once you find it click on top of it and then press on "Ok", now you are good to go and can press on "Create" at the bottom right.
+Files >> Desktop >> 'Right Click' >> New Folder >> type: 'Elite Estate'
 
-Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the same folder for better organisation.
+Once you have created this folder, create a Pycharm environment in this folder. Follow the next steps to do it correctly. The software in the steps is MacOS but in Windows is almost the same, but you may encounter some interface difference
+
+Step 1: Open PyCharm and create a 'New Project'
+IMAGE 1
+
+Step 2: Change the project directory to the folder you previously created
+IMAGE 2
+
+Step 3: Select the folder you created before as your PyCharm project directory
+IMAGE 3
+
+Step 4: Create the project
+IMAGE 4
+
+Step 5: The outlook of the environment
+IMAGE 5
+
+Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
+
+IMAGE SHOWING THE FOLDER
 
 Then, install the requirements in your Pycharm terminal.
 
 ```python
 pip install -r requirements.txt
 ```
+Warning: 
+IMAGE REQUIREMENTS
 
-The next step is the final one. Open the 'LanguageHUB.py' file which is the one containing the program. 
+The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
 
-Run the code in the terminal and enjoy!
-
-```python
-python eliteestate.py
-```
+IMAGE OPENPYTHONFILE
 
 ### Google Collab Installation
 
