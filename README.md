@@ -91,11 +91,11 @@ Step 2:
 
 Step 3: 
 
-![Image 14](instruction_images/drivestep3.png)
+![Image 14](instruction_images/ds3.png)
 
 Step 4: 
 
-![Image 15](instruction_images/drivestep4.png)
+![Image 15](instruction_images/ds4.png)
 
 Follow the instructions shown in the file to upload the data frame 'madrid_Houses.csv' into your environment.
 
