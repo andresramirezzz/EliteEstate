@@ -75,11 +75,27 @@ That would be all. Thank you for seeing our analysis!
 
 ### Google Collab Installation
 
-Download the 'EliteEstate.ipynb' file and have it located
+Download the 'EliteEstate.ipynb' file from the 'main' directory in this GitHub and have it located
 
-After this, you will need to visit [Google Drive](https://www.google.com/drive/) and sign in and upload the 'EliteEstate.ipynb' document to 'Your Drive'. 
+After this, you will need to visit [Google Drive](https://www.google.com/drive/) and sign in and T
 
-Once the file is uploaded, click on it to open it.
+hese images explain how to upload the 'EliteEstate.ipynb' document to 'Your Drive' and open it with Google Collab.
+
+Step 1: 
+
+![Image 12](instruction_images/drivestep1.png)
+
+Step 2: 
+
+![Image 13](instruction_images/drivestep2.png)
+
+Step 3: 
+
+![Image 14](instruction_images/drivestep3.png)
+
+Step 4: 
+
+![Image 15](instruction_images/drivestep4.png)
 
 Follow the instructions shown in the file to upload the data frame 'madrid_Houses.csv' into your environment.
 
