@@ -67,7 +67,7 @@ print(df.info())
 """#####Code for creating the file that will create the document called 'Report' where all the results will be printed"""
 
 with open('Report.txt', 'w') as file:
-    file.write('RESULTS FROM ELITE ESTATE')
+    file.write('RESULTS FROM ELITE ESTATE\n\n')
 
 """#VISUALS
 
@@ -304,7 +304,7 @@ class Predictor:
 
 answ = input('\n\n\n\n\nWELCOME TO ELITE ESTATE PRICE PREDICTOR, FILL OUT THIS QUESTIONNAIRE TO KNOW THE PRICE OF YOUR HOME.\nIF YOU DO NOT WANT TO CONTINUE, JUST TYPE "EXIT" AND THE PROGRAM WILL STOP. \n\n\n\n\n\n\nDO YOU WANT TO PREDICT THE PRICE OF YOUR HOME?\n')
 if answ.lower() == 'exit':
-    print("Goodbye!")
+    print("Goodbye!\nRemember to take a look at the 'Results.txt' document saved into\nyour environment for further understanding of the data")
     exit()
 if answ.lower() != 'yes':
     print("Invalid input. Please type 'yes' to continue or 'exit' to stop.")
@@ -321,7 +321,7 @@ else:
 my_predictor = Predictor(a, b, c,d)
 result = my_predictor.calculator()
 
-print(f'The price of the home would be {result:.2f}€')
+print(f'The price of the home would be {result:.2f}€\nRemember to take a look at the 'Results.txt' document saved into\nyour environment for further understanding of the data')
 
 """#####We tried doing the predictor with most of the independent binary variables, such as 'has_ac', 'has_garden',etc. However, the predictor results were not accurate as most of the independent variables have high multicolinearity with the dependent variable. With high multicolinearity, the individual contribution of each parameter (independent variable) is difficult to assess."""
 
