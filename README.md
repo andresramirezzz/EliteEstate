@@ -100,7 +100,7 @@ If everything was done correctly, your screen should look like this:
 
 ![Image 16](instruction_images/ds5.png)
 
-Now, follow the instructions shown in the file to upload the data frame ['madrid_Houses.csv'](madrid_Houses.csv) into your environment.
+Now, follow the instructions shown in the file to upload the data frame ['madrid_Houses.csv'](houses_Madrid.csv) into your environment.
 
 From here, run the cells in their respective order and you will be able to see the analysis carried out.
 
