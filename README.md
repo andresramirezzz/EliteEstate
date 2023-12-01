@@ -46,7 +46,7 @@ Step 4: Create the project
 Step 5: The outlook of the environment
 ![Image 5](instruction_images/Step6.png)
 
-Download the 'requirements.txt' and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
+Download the ['requirements.txt'](requirements.txt) and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
 
 ![Image 6](instruction_images/folderlook.png)
 
