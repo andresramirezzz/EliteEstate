@@ -104,7 +104,7 @@ Now, follow the instructions shown in the file to upload the data frame ['madrid
 
 From here, run the cells in their respective order and you will be able to see the analysis carried out.
 
-When you finish running all the code, you will find the 'Results.txt', containing all the relevant nummerical data from the plots, in your environment
+When you finish running all the code, you will find the 'Results.txt', containing all the relevant nummerical data from the plots, in your environment. Click on it to see this part of the content of the analysis
 
 ![Image 17](instruction_images/drivereport.png)
 
