@@ -25,9 +25,13 @@ Firstly, install [Python](https://www.python.org/downloads/) and [PyCharm](https
 
 Once you have installed both programs you are ready to begin seeing Elite Estate analysis.
 
-The first step you need to follow is to create a folder in your computer in a place you will remember. This is very important, as you will need to save the data frame 'houses_Madrid.csv' in the same folder / environment. It is recommended to create a folder on the desktop of your computer for easy access
+The first step you need to follow is to create a folder in your computer in a place you will remember. This is very important, as you will need to save the data frame ['houses_Madrid.csv'](houses_Madrid.csv), ['requirements.txt'](requirements.txt) & ['eliteestate.py'](eliteestate.py) in the same folder / environment. It is recommended to create a folder on the desktop of your computer for easy access
 
 Files >> Desktop >> 'Right Click' >> New Folder >> type: 'Elite Estate'
+
+The folder should look like this: 
+
+![Image 6](instruction_images/folderlook.png)
 
 Once you have created this folder, create a Pycharm environment in this folder. Follow the next steps to do it correctly. The software in the steps is MacOS but in Windows is almost the same, but you may encounter some interface difference
 
@@ -45,10 +49,6 @@ Step 4: Create the project
 
 Step 5: The outlook of the environment
 ![Image 5](instruction_images/Step6.png)
-
-Download the ['requirements.txt'](requirements.txt) and the 'eliteestate.py' files. Save them in the same folder for better organisation. 
-
-![Image 6](instruction_images/folderlook.png)
 
 The next step is the final one. Open the 'EliteEstate.py' file which is the one containing the program with PyCharm.
 
@@ -74,7 +74,7 @@ That would be all. Thank you for seeing our analysis!
 
 ### Google Collab Installation
 
-Download the 'EliteEstate.ipynb' file from the 'main' directory in this GitHub and have it located
+Download the ['EliteEstate.ipynb'](EliteEstate.ipynb) file from the 'main' directory in this GitHub and have it located
 
 After this, you will need to visit [Google Drive](https://www.google.com/drive/) and sign in and T
 
@@ -100,7 +100,7 @@ If everything was done correctly, your screen should look like this:
 
 ![Image 16](instruction_images/ds5.png)
 
-Now, follow the instructions shown in the file to upload the data frame 'madrid_Houses.csv' into your environment.
+Now, follow the instructions shown in the file to upload the data frame ['madrid_Houses.csv'](madrid_Houses.csv) into your environment.
 
 From here, run the cells in their respective order and you will be able to see the analysis carried out.
 
