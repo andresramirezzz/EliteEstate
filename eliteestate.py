@@ -326,7 +326,7 @@ else:
 my_predictor = Predictor(a, b, c,e)
 result = my_predictor.calculator()
 
-print(f'The price of the home would be {result:.2f}€\n\nRemember to take a look at the 'Results.txt' document saved into\nyour environment for further understanding of the data')
+print(f'The price of the home would be {result:.2f}€\n\nRemember to take a look at the "Results.txt" document saved into\nyour environment for further understanding of the data')
 with open('Report.txt', 'a') as file:
     file.write('PREDICTOR RESULT\n')
     file.write(f"Your home had {a} room/s, {b} bathroom/s, {c} built square meters\n")
